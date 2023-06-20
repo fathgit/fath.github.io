@@ -1,0 +1,22 @@
+.judul{
+    color: crimson;
+    text-align: center;
+    font-size: 60 px
+}
+img{
+    width: 100px;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10%;
+}
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    text-align: center;
+}
+ol{
+    margin-left: auto;
+    text-align: center;
+}
